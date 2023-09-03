@@ -1,0 +1,152 @@
+    body {
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .header-container {
+        width: 100%;
+        height: 800px;
+        background-image: url('image/Rectangle 9.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    header {
+        text-align: center;
+        display: flex;
+        width: 100%;
+    }
+
+    .logo {
+        text-align: center;
+        width: 205px;
+        height: 75px;
+        padding: 15px;
+        gap: 25px;
+        margin-left: 50px;
+     }
+
+    .buttons-container {
+        display: flex;
+        align-items: center;
+        margin-left: 300px;
+    }
+    
+    .nav-button {
+        margin-right: 10px;
+        height: 30px;
+        background-color: transparent;
+        border: 0;
+        color: white;
+    }
+
+   .icons {
+        margin-right: 10px;
+        height: 30px;
+        padding: 45px;
+        display: flex;
+        margin-left: 130px;
+        text-align: center;
+   }
+
+   .center-text {
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    }
+
+  .bold-text {
+    font-weight: bold; 
+    font-size: 60px;
+    color: white;
+    }
+
+  .text {
+    color: white;
+    margin: 30px;
+   }
+
+   .try-free-btn {
+    align-items: center;;
+    border-radius: 35px;
+    background: #2091F9;
+    padding: 10px 25px;
+    color: white;
+    margin-top: 50px;
+   }
+
+   .features {
+    color:#252B42;
+    font-size: 50px;
+    font-style: normal;
+    line-height: 55px;
+    margin-top: 400px;
+   }
+
+ .text-two {
+    font-size: 20px;
+    color: #374754;
+    text-align: center;
+    margin-top: 25px;
+ }
+
+ h1 {
+    margin-bottom: 0;
+ }
+ .blocks-container {
+    display: flex;
+    margin-left: 400px;
+    margin-top: 80px;
+ }
+
+ .drawing-text {
+    color:#252B42;
+    text-align: center;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: bold;
+    margin-top: 20px;
+ }
+
+ .slate-text {
+   width: 180px; 
+   margin-top: 15px;
+ }
+
+ .driw-text {
+  color:#252B42;
+  text-align: center;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.slate-helps {
+ width: 180px; 
+ margin-top: 15px;
+}
+
+.brush-text {
+  color:#252B42;
+  text-align: center;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.slate-helps-you {
+ width: 180px; 
+ margin-top: 15px;
+}
+
+.video {
+  margin-top: 130px;
+  width: 1180px;
+  height: 660px;
+}
